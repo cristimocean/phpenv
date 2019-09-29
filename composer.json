@@ -1,0 +1,12 @@
+{
+    "name": "sitepoint/guestbook",
+    "description": "a guestbook app",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "catfan/medoo": "^1.7"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.3"
+    }
+}
